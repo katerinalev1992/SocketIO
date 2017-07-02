@@ -1,0 +1,1 @@
+<h2>to run: </h2><b>npm index.js</b>
